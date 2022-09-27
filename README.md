@@ -7,6 +7,6 @@
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)  | ...사용가능☑️ |
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)  | ...사용가능☑️ |
 
-### 메일
+### 이메일
 ![gmail](https://img.shields.io/badge/-wnalsals1127@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
 ![naver](https://img.shields.io/badge/-wnalsals12@naver.com-03C75A?style=flat&logo=naver&logoColor=white)
