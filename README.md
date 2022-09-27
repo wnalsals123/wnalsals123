@@ -4,7 +4,7 @@
 ### 관심 기술
 | 💻기술명  | 🔍현황 |
 | ------------- | ------------- |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)  | <code>...사용가능<img src="https://www.svgrepo.com/show/410398/check.svg" intrinsicsize="512 x 512" width="12" height="12" srcset="https://www.svgrepo.com/show/410398/check.svg 4x" alt="Check SVG Vector" title="Check SVG Vector"></code> |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)  | <code>...사용가능 <img src="https://www.svgrepo.com/show/410398/check.svg" intrinsicsize="512 x 512" width="12" height="12" srcset="https://www.svgrepo.com/show/410398/check.svg 4x" alt="Check SVG Vector" title="Check SVG Vector"></code> |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=HTML5&logoColor=white)  | `...사용가능✔️` |
 | ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)  | `...사용가능✔️` |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)  | `...사용가능✔️` |
