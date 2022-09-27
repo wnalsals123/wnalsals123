@@ -1,4 +1,4 @@
-# 프론트엔드 개발하기👓
+# 주민종의 깃허브👓
 안녕하세요!👋 주민종입니다. 프론트엔드 개발합니다.
 
 ### 관심 기술
@@ -16,9 +16,9 @@
 ### 프로젝트
 | 프로젝트명 | 미리보기 |
 | :---: | --- |
-| Resume</br><a href="https://github.com/wnalsals123/Resume_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572418-c270d9ca-b559-46cc-833f-06fded77c92c.png" alt="resume" width='500'></img></br>`Demo page`<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"> |
-| Gamestore</br><a href="https://github.com/wnalsals123/GameStore_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572414-8a338adf-b9a3-41b9-8c41-c9525ad66712.png" alt="gamestore" width='500'></img> |
+| Gamestore</br><a href="https://github.com/wnalsals123/GameStore_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572414-8a338adf-b9a3-41b9-8c41-c9525ad66712.png" alt="gamestore" width='500'></img></br>[`데모 페이지`](https://jmj-game-store.netlify.app) 게임 판매 스토어 |
+| Resume</br><a href="https://github.com/wnalsals123/Resume_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572418-c270d9ca-b559-46cc-833f-06fded77c92c.png" alt="resume" width='500'></img></br>[`데모 페이지`](https://jmj-resume-page.netlify.app) 간단한 이력서 작성 및 편집 웹페이지 |
 
 ### 이메일
-![gmail](https://img.shields.io/badge/-wnalsals1127@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
-![naver](https://img.shields.io/badge/-wnalsals12@naver.com-03C75A?style=flat&logo=naver&logoColor=white)
+![gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white) wnalsals1127@gmail.com
+![naver](https://img.shields.io/badge/-Naver-03C75A?style=flat&logo=naver&logoColor=white) wnalsals12@gmail.com
