@@ -11,6 +11,7 @@
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)  | <code>...지원예정 <img src="https://www.svgrepo.com/show/410435/cancel.svg" alt="Cancel SVG File" title="Cancel SVG File" width="10" height="10"></code> |
 | ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=React)  | <code>...사용가능 <img src="https://www.svgrepo.com/show/410398/check.svg" alt="Check SVG File" title="Check SVG File" width="10" height="10"></code> |
 | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux)  | <code>...지원예정 <img src="https://www.svgrepo.com/show/410435/cancel.svg" alt="Cancel SVG File" title="Cancel SVG File" width="10" height="10"></code> |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)  | <code>...지원예정 <img src="https://www.svgrepo.com/show/410435/cancel.svg" alt="Cancel SVG File" title="Cancel SVG File" width="10" height="10"></code> |
 | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter)  | <code>...지원예정 <img src="https://www.svgrepo.com/show/410435/cancel.svg" alt="Cancel SVG File" title="Cancel SVG File" width="10" height="10"></code> |
 
 ### 프로젝트
