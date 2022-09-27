@@ -16,7 +16,8 @@
 ### 프로젝트
 | 프로젝트명 | 미리보기 |
 | :---: | --- |
-| gamestore | <img src="https://user-images.githubusercontent.com/44563747/192569054-05abd40d-132a-4867-bdac-135a2c7b3d9c.png" alt="gamestore" width='400'></img> |
+| Resume | <img src="https://user-images.githubusercontent.com/44563747/192572418-c270d9ca-b559-46cc-833f-06fded77c92c.png" alt="resume" width='500'></img> |
+| Gamestore | <img src="https://user-images.githubusercontent.com/44563747/192572414-8a338adf-b9a3-41b9-8c41-c9525ad66712.png" alt="gamestore" width='500'></img> |
 
 ### 이메일
 ![gmail](https://img.shields.io/badge/-wnalsals1127@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
