@@ -16,8 +16,8 @@
 ### 프로젝트
 | 프로젝트명 | 미리보기 |
 | :---: | --- |
-| Resume | <img src="https://user-images.githubusercontent.com/44563747/192572418-c270d9ca-b559-46cc-833f-06fded77c92c.png" alt="resume" width='500'></img> |
-| Gamestore | <img src="https://user-images.githubusercontent.com/44563747/192572414-8a338adf-b9a3-41b9-8c41-c9525ad66712.png" alt="gamestore" width='500'></img> |
+| Resume</br><a href="https://github.com/wnalsals123/Resume_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572418-c270d9ca-b559-46cc-833f-06fded77c92c.png" alt="resume" width='600'></img> |
+| Gamestore</br><a href="https://github.com/wnalsals123/GameStore_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572414-8a338adf-b9a3-41b9-8c41-c9525ad66712.png" alt="gamestore" width='600'></img> |
 
 ### 이메일
 ![gmail](https://img.shields.io/badge/-wnalsals1127@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
